@@ -1,0 +1,8 @@
+[ pheo@pheo-desktop 104 ] $ time ./main.rb
+329468
+
+real    64m12.644s
+user    64m2.146s
+sys     0m0.655s
+
+# Jeezus
